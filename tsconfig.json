@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "lib": ["ES2020"],
+    "types": ["@types/screeps"],
+    "outDir": "./screeps.com",
+    "sourceMap": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "checkJs": false
+  },
+  "include": [
+    "src/**/*.ts"
+  ], 
+  "exclude": [
+    "node_modules",
+    "screeps.com"
+  ]
+}

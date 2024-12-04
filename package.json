@@ -1,0 +1,22 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "My progress in Screeps",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean-Tay/screeps.git"
+  },
+  "author": "Sean-Tay@github.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Sean-Tay/screeps/issues"
+  },
+  "homepage": "https://github.com/Sean-Tay/screeps#readme",
+  "dependencies": {
+    "@types/screeps": "^3.3.8",
+    "typescript": "^5.7.2"
+  }
+}
